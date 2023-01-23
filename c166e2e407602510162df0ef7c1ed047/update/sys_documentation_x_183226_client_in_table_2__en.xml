@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Table 2" language="en" table="x_183226_client_in_table_2">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Table 2</label>
+            <language>en</language>
+            <name>x_183226_client_in_table_2</name>
+            <plural>Table 2s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-01-19 12:07:12</sys_created_on>
+            <sys_id>b153476c07e02510162df0ef7c1ed03b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Table 2</sys_name>
+            <sys_package display_value="Client Info" source="x_183226_client_in">c166e2e407602510162df0ef7c1ed047</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Client Info">c166e2e407602510162df0ef7c1ed047</sys_scope>
+            <sys_update_name>sys_documentation_x_183226_client_in_table_2__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-01-19 12:07:12</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

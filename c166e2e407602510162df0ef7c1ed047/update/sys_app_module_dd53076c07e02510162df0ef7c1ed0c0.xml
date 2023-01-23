@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Table 2">1553c36c07e02510162df0ef7c1ed06d</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Table 2s</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_183226_client_in_table_2</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_183226_client_in.table_2_user</roles>
+        <survey/>
+        <survey_overwrite>true</survey_overwrite>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-19 12:07:10</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>dd53076c07e02510162df0ef7c1ed0c0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Table 2s</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Client Info" source="x_183226_client_in">c166e2e407602510162df0ef7c1ed047</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Client Info">c166e2e407602510162df0ef7c1ed047</sys_scope>
+        <sys_update_name>sys_app_module_dd53076c07e02510162df0ef7c1ed0c0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-19 12:07:10</sys_updated_on>
+        <timeline_page/>
+        <title>Table 2s</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
