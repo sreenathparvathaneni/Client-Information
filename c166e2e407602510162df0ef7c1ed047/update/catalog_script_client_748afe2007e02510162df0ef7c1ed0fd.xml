@@ -22,7 +22,7 @@
       return;
    }
 
-   //Type appropriate comment here, and begin script below
+   //Type appropriate comment here, and begin script below test
    alert('Client info catalog client script - TWO');
     var ga = new GlideAjax('x_183226_meeting_r.MeetingRoom_new');
     ga.addParam('sysparm_name', 'room1');
@@ -39,7 +39,7 @@ function HelloWorldParse(response) {
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>748afe2007e02510162df0ef7c1ed0fd</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Client info catalog client script2</sys_name>
         <sys_overrides/>
         <sys_package display_value="Client Info" source="x_183226_client_in">c166e2e407602510162df0ef7c1ed047</sys_package>
@@ -47,7 +47,7 @@ function HelloWorldParse(response) {
         <sys_scope display_value="Client Info">c166e2e407602510162df0ef7c1ed047</sys_scope>
         <sys_update_name>catalog_script_client_748afe2007e02510162df0ef7c1ed0fd</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-01-19 11:29:23</sys_updated_on>
+        <sys_updated_on>2023-01-23 11:56:35</sys_updated_on>
         <table/>
         <type>onChange</type>
         <ui_type>0</ui_type>
